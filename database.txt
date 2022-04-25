@@ -1,4 +1,4 @@
-www.youtube.com
-youtube.com
-www.facebook.com
-facebook.com
+www.youtube.com 0 0 0 1
+youtube.com 0 0 0 1
+www.facebook.com 1 1 0 0
+facebook.com 1 1 0 0
