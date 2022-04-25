@@ -1,4 +1,4 @@
-www.youtube.com 0 0 0 1
-youtube.com 0 0 0 1
-www.facebook.com 1 1 0 0
-facebook.com 1 1 0 0
+www.youtube.com flag1 flag2
+youtube.com flag1 flag2
+www.facebook.com flag3 flag4
+facebook.com flag3 flag4
