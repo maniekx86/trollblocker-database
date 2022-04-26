@@ -1,4 +1,8 @@
 # trollblocker-database
 Database for trollsiteblocker extension
 
-THIS IS PROTOTYPE
+## Requests
+Use Issues / Pull requests tab to suggest a site to block/unblock
+
+
+This extension is in testing phase!
