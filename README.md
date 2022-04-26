@@ -1,4 +1,4 @@
 # trollblocker-database
-Database for trollblocker extension
+Database for trollsiteblocker extension
 
 THIS IS PROTOTYPE
